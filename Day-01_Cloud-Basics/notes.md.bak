@@ -61,5 +61,3 @@ AWS is popular because it offers a wide range of reliable, secure, and scalable 
 
 
 Question 3: Difference between Region and Availability Zone
-A Region is a geographically separate location where AWS has data centers, such as Mumbai.
-An Availability Zone is an isolated data center within a region, designed to provide high availability and fault tolerance.
